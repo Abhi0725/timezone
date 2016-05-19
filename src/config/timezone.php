@@ -2,6 +2,6 @@
 
 return [
 
-  'default' => 'UTC',
+  'default' => 'Asia/Kolkata',
 
 ];
