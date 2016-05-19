@@ -1,8 +1,9 @@
 {
-    "name": "abhishek/timezones",
+    "name": "abhishek123/timezones",
     "description": "Demo package to show time according to timezones",
     "type": "library",
     "license": "MIT",
+    "keywords": ["laravel"],
     "authors": [
         {
             "name": "Abhishek",
@@ -10,5 +11,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abhishek\\TimeZone\\": "src/"
+        }
+    }
 }
