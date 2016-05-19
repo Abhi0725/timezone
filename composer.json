@@ -1,0 +1,13 @@
+{
+    "name": "abhishek/timezones",
+    "description": "Demo package to show time according to timezones",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Abhishek",
+            "email": "abhishek.chakravarty@squareboat.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
