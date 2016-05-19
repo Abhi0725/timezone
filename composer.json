@@ -2,6 +2,7 @@
     "name": "abhishek/timezones",
     "description": "Demo package to show time according to timezones",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Abhishek",
